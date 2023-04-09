@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - the main function
+ * main - the main function claculates area of a rectangle
  * @area: parameter
  * @l: parameter for length
  * @w: parameter for width
  * Return: 0
  */
 
-int main(int l, char w, char area)
-{
+int main(int l, char w, int area)
+{ /* program misses something */
 	int area;
 
 	area = l * w;
