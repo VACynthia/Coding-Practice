@@ -11,7 +11,7 @@ int main(void)
 	int Age;
 
 	printf("What is your name? ");
-	scanf("%s", Name);
+	scanf("%s", Name); /* scanf used to detect user's response */
 	printf("How old are you? ");
 	scanf("%d", &Age); /* &Age to display the age as an integer */
 
