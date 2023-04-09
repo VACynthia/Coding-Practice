@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - the main function
+ * main - the main function notes on Variables
  *
  * Return: 0
  */
